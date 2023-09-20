@@ -4,8 +4,9 @@
 
 body {
   margin: auto;
-  padding: 10%;
   background-color: rgb(133, 133, 133);
+  width: 60%;
+  padding: 20px;
 }
 
 header {
