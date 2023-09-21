@@ -39,7 +39,7 @@ h2 {
   margin-bottom: 10px;
 }
 .news-column {
-  column-count: 2;
+  column-count: 3;
   column-gap: 2em;
   column-rule: 5px solid rgb(217, 217, 217);
   text-align: justify;
